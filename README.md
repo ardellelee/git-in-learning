@@ -69,3 +69,45 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3C9kA1xBGNWxELMdVjKxRi66AOtCnA6lC+KRT/N8E
 <img src="pic/profile_key.png"/>
 <img src="pic/add_key_bitbucket.png"/>
 <img src="pic/key_list.png"/>
+
+# 使用sourcetree
+
+这个章节主要介绍如何使用sourcetree 常见的两种方式
+第一 clone远端repos到本地
+第二 将已有本地的代码目录创建一个新的远端repos并上传
+
+## clone远端repos到本地
+
+第一添加远端bitbucket账户
+
+<img src="sourcetree_setting.png"/>
+<img src="add_account.png"/>
+<img src="account_detail.png"/>
+<img src="account_list.png"/>
+
+第二从账户clone repos到本地
+<img src="select_repos_from_account.png"/>
+<img src="clone_repos_select_local_folder.png"/>
+<img src="save_repos_into_wonderful.png"/>
+<img src="click_you_clone_folder.png"/>
+<img src="clone_detail.png"/>
+
+## 将已有本地的代码目录创建一个新的远端repos并上传
+
+第一加载本地目录
+<img src="create_loca_folder.png"/>
+<img src="sourcetree_create_from_local_folder.png"/>
+<img src="select_local_folder.png"/>
+<img src="create_remote_repos_by_create_project.png"/>
+<img src="select_remote_account_and_select_private_repos.png"/>
+<img src="show_sourcetree_list.png"/>
+<img src="remote_still_havant_anything.png"/>
+<img src="add_remote_repos.png"/>
+<img src="select_remote.png"/>
+<img src="select_your_remote_repos.png"/>
+<img src="type_repos_name.png"/>
+<img src="show_remote.png"/>
+<img src="vscode_open_folder_create_some_file.png"/>
+<img src="sourcetree_add_changed_file.png"/>
+<img src="submit.png"/>
+<img src="show_repos_at_web.png"/>
