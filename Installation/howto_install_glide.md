@@ -8,4 +8,3 @@ On Mac OS X you can also install the latest release via Homebrew:
 ```
 $ brew install glide
 ```
-
